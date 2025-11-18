@@ -67,5 +67,3 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Status Kontributor
 Sindurmas Muhammad Ramasindu (202210370311377) memulai pengerjaan fitur Tambah Ruangan Baru & Manajemen Peminjaman.
-
-
